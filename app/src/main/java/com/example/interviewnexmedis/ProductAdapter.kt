@@ -28,9 +28,9 @@ class ProductAdapter(private val productList: List<Product>) : RecyclerView.Adap
         holder.productDescription.text = product.description
 
         if (product.isFavorite) {
-            holder.favoriteButton.setImageResource(R.drawable.ic_favorite)
-        } else {
             holder.favoriteButton.setImageResource(R.drawable.ic_favorite_border)
+        } else {
+            holder.favoriteButton.setImageResource(R.drawable.ic_favorite)
         }
 
         holder.favoriteButton.setOnClickListener {

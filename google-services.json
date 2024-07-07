@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608495661587",
+    "project_id": "interviewnexmedis",
+    "storage_bucket": "interviewnexmedis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608495661587:android:192d3d486897b014e945e6",
+        "android_client_info": {
+          "package_name": "com.example.interviewnexmedis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnV3e9jvzQYQiOkPR06jBz02r5FAzS8X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
